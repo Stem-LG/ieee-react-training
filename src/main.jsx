@@ -136,5 +136,5 @@ function NoteList({ notes, deleteNote }) {
         return l;
     }
 
-    return <ul><List/></ul>;
+    return <div><List/></div>;
 }
